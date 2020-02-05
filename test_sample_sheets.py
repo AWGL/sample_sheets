@@ -1,7 +1,7 @@
 import unittest
 import os
 import getpass
-from shire_querier import *
+from sample_sheets import *
 
 
 class TestShire(unittest.TestCase):
