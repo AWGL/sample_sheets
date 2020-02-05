@@ -3,6 +3,6 @@
 
 @Echo off
 echo "Version 1.0.0 for sample sheet generation"
-set path="\jre\bin"
+set path="C:\Users\saram\Documents\Work\jre\bin"
 java -version
 java.exe -jar query_shire.jar 20-00 true
